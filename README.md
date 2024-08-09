@@ -56,20 +56,17 @@ CREATE TABLE `users` (
 
 2. **Set up the database:**
 Install MySQL and create a database named chelsea_fc.
-
 Create the necessary tables using the provided SQL scripts.
 
 4. **Update Database Credentials:**
 Open the Java source code.
-
 Replace the database connection credentials in the code with your own MySQL credentials.
 6. **Compile and Run the Application:**
 Use an IDE like IntelliJ IDEA to open the project.
-
 Compile and run the ChelseaFCApp class.
 
 Contributing
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 Contact
 For any questions or inquiries, please contact Joshoua Simon at simonjoshoua23@gmail.com.
-text
+
