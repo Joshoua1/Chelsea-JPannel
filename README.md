@@ -52,7 +52,7 @@ CREATE TABLE `users` (
 
    ```bash
    git clone <repository-url>
-```
+
 
 2. **Set up the database:**
 Install MySQL and create a database named chelsea_fc.
